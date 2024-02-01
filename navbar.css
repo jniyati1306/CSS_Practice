@@ -1,0 +1,18 @@
+.navbar{
+    background-color: black;
+    height: 60px;
+    color: white;
+    display: flex;
+  
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbarlogo{
+    color: orange;
+    font-size: 25px;
+    
+}
+
+.search{
+    align-items: center;
+   
+}
